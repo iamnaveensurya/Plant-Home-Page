@@ -1,5 +1,5 @@
 
-# HTML & CSS PROJECT 6 Plant Homepage ![Project badge](https://img.shields.io/badge/PROJECT%205-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 6 Plant Homepage ![Project badge](https://img.shields.io/badge/PROJECT%206-HTML%20%26%20CSS-orange)
 
 I have created many websites using __*WordPress*__ but This is the first ever website I have written code from scratch using `HTML&CSS` only.
 
