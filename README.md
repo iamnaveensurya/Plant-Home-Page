@@ -14,7 +14,7 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Live Preview :
 ---
 
-[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://crypto-homepage.netlify.app/)
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://planthomepagee.netlify.app/)
 
 
 ### Things i have learned working on this project :
